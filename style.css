@@ -1,0 +1,30 @@
+
+
+
+.container{
+    display: flex;
+    max-width: 700px;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(170, 169, 169);
+  }
+
+  .note{
+    position: fixed;
+    top: 1px;
+  }
+  .botao{
+    border-radius: 60px;
+    width: 90px;
+    color: white;
+    background-color: blue;
+    display: flex;
+    gap: 8px;
+}
+  
+  svg{
+    fill: white;
+    
+  }
